@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chirpy/static/css/main.5c21344e.chunk.css",
+    "main.js": "/chirpy/static/js/main.f49920e1.chunk.js",
+    "main.js.map": "/chirpy/static/js/main.f49920e1.chunk.js.map",
+    "runtime-main.js": "/chirpy/static/js/runtime-main.4c4d873b.js",
+    "runtime-main.js.map": "/chirpy/static/js/runtime-main.4c4d873b.js.map",
+    "static/js/2.fdd2882d.chunk.js": "/chirpy/static/js/2.fdd2882d.chunk.js",
+    "static/js/2.fdd2882d.chunk.js.map": "/chirpy/static/js/2.fdd2882d.chunk.js.map",
+    "static/js/3.d82ea67e.chunk.js": "/chirpy/static/js/3.d82ea67e.chunk.js",
+    "static/js/3.d82ea67e.chunk.js.map": "/chirpy/static/js/3.d82ea67e.chunk.js.map",
+    "index.html": "/chirpy/index.html",
+    "static/css/main.5c21344e.chunk.css.map": "/chirpy/static/css/main.5c21344e.chunk.css.map",
+    "static/js/2.fdd2882d.chunk.js.LICENSE.txt": "/chirpy/static/js/2.fdd2882d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c4d873b.js",
+    "static/js/2.fdd2882d.chunk.js",
+    "static/css/main.5c21344e.chunk.css",
+    "static/js/main.f49920e1.chunk.js"
+  ]
+}
